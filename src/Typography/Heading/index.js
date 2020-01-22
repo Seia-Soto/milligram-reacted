@@ -20,7 +20,7 @@ const Heading = props => {
 Heading.propTypes = {
   children: PropTypes.any,
   variant: PropTypes.string,
-  as: PropTypes.string.isRequired
+  as: PropTypes.string
 }
 
 export default Heading
