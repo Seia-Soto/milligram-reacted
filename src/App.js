@@ -5,7 +5,7 @@ import Heading from './Typography/Heading'
 function App () {
   return (
     <div>
-      <Heading>Say, hello!</Heading>
+      <Heading as='h1'>Say, hello!</Heading>
     </div>
   )
 }
